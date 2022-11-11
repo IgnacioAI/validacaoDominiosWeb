@@ -1,3 +1,5 @@
-# pythonRpa
+# Projeto : Validação de dominios na web
 
-práticas de rpa com python
+###### Objetivo :
+- Pesquisar e validar dominios inscritos em arquivo .xlsx
+
